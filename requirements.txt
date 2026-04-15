@@ -1,0 +1,17 @@
+duckdb
+fastapi
+httpx
+ipython
+matplotlib
+mlflow
+numpy
+optuna
+pandas
+plotly
+requests
+scikit-learn
+scipy
+seaborn
+streamlit
+uvicorn[standard]
+xgboost

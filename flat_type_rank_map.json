@@ -1,0 +1,9 @@
+{
+    "1 ROOM": 0,
+    "2 ROOM": 1,
+    "3 ROOM": 2,
+    "4 ROOM": 3,
+    "5 ROOM": 4,
+    "EXECUTIVE": 5,
+    "MULTI-GENERATION": 6
+}
