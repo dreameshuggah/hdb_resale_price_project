@@ -1,5 +1,5 @@
 # HDB Resale Price Prediction 
-https://hdb-resale-price-prediction-engine.streamlit.app/
+ttps://hdb-resale-price-estimation-engine.streamlit.app/ 
 
 A robust, machine-learning-powered web application designed to predict and analyze the resale value of Housing & Development Board (HDB) flats in Singapore. Built with Streamlit and XGBoost, this tool provides algorithmic property assessments backed by historical market data, geospatial proximity analysis, and retrospective model validation.
 
